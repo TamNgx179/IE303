@@ -7,5 +7,19 @@
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/lib/mongodb-driver-sync-5.8.0.jar!/" />
+          <root url="jar://$MODULE_DIR$/lib/mongodb-driver-core-5.8.0.jar!/" />
+          <root url="jar://$MODULE_DIR$/lib/bson-5.8.0.jar!/" />
+          <root url="jar://$MODULE_DIR$/lib/bson-record-codec-5.8.0.jar!/" />
+          <root url="jar://$MODULE_DIR$/lib/slf4j-api-1.7.6.jar!/" />
+          <root url="jar://$MODULE_DIR$/lib/slf4j-nop-1.7.6.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
   </component>
 </module>
